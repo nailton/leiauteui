@@ -2,8 +2,8 @@
 <!--[if IE 8]>
          <html class="no-js lt-ie9" lang="pt" >
          <![endif]-->
-         <!--[if gt IE 8]><!--> 
-         <html class="no-js" lang="pt" > 
+         <!--[if gt IE 8]><!-->
+         <html class="no-js" lang="pt" >
          <!--<![endif]-->
          <head>
           <meta charset="UTF-8">
@@ -25,7 +25,7 @@
                 </div>
               </header>
             </div><!-- /row header -->
-            
+
             <div class="content">
 
               <div class="row">
@@ -52,10 +52,10 @@
                     </ul>
 
                     <pre><code>
-                      #header h1 a { 
-                      display: block; 
-                      width: 300px; 
-                      height: 80px; 
+                      #header h1 a {
+                      display: block;
+                      width: 300px;
+                      height: 80px;
                     }
                   </code></pre>
 
@@ -98,9 +98,9 @@
 
           <footer id="footer" class="footer">
             <div class="row">
-              <div class="large-4 columns">            
+              <div class="large-4 columns">
                <a href=""> <p><img src="http://www.rcinterativa.com.br/assinatura.png" alt="placeholder+image"></p></a>                </div>
-             <div class="large-8 columns">            
+             <div class="large-8 columns">
               <!-- <div class="limite-footer"> -->
               <p>Esse é o nosso rodape, sempre na base - Copyright <?php echo date('Y'); ?></p>
               <!-- </div>           -->
@@ -109,7 +109,7 @@
           </footer><!-- /footer -->
 
 
-        </div><!-- /geral -->      
+        </div><!-- /geral -->
 
         <script type="text/javascript" src="js/custom.modernizr.js"></script>
       </body>
